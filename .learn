@@ -1,6 +1,2 @@
-tags:
-  - puts
-  - tictactoe
-languages:
-  - ruby
-  
+$ puts "Tic Tac Toe"
+ 
